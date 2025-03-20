@@ -8,6 +8,7 @@
 
 ## 📌 Requirements  
 - Python 3.x  
+- Download and Install LibreOffice -> [Download LibreOffice](https://www.libreoffice.org/download/download/)
 - Install dependencies:  
   pip install pymupdf
 
